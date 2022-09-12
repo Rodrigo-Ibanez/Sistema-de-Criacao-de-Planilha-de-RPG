@@ -1,0 +1,15 @@
+C:\Users\gmkis\Documents\Projeto planilha rpg\bin\Debug\net6.0\Projeto planilha rpg.exe
+C:\Users\gmkis\Documents\Projeto planilha rpg\bin\Debug\net6.0\Projeto planilha rpg.deps.json
+C:\Users\gmkis\Documents\Projeto planilha rpg\bin\Debug\net6.0\Projeto planilha rpg.runtimeconfig.json
+C:\Users\gmkis\Documents\Projeto planilha rpg\bin\Debug\net6.0\Projeto planilha rpg.dll
+C:\Users\gmkis\Documents\Projeto planilha rpg\bin\Debug\net6.0\Projeto planilha rpg.pdb
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.csproj.AssemblyReference.cache
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.AssemblyInfoInputs.cache
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.AssemblyInfo.cs
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.csproj.CoreCompileInputs.cache
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.dll
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\refint\Projeto planilha rpg.dll
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.pdb
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\Projeto planilha rpg.genruntimeconfig.cache
+C:\Users\gmkis\Documents\Projeto planilha rpg\obj\Debug\net6.0\ref\Projeto planilha rpg.dll
